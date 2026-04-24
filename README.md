@@ -2,8 +2,9 @@
 
 ## Présentation de la session
 
-**Projet :** [Fin C6] Réseaux et Déploiement Web  
+**Projet :** Réseaux et Déploiement Web  
 **Realisée par :** Salma Akajou 
+
 **Encadré par :** ESSARRAJ Fouad  
 
 ---
